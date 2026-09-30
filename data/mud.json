@@ -1,0 +1,17 @@
+[
+  {
+    "open": true,
+    "capacity": 5,
+    "contents": [
+      { "name": "épée", "volume": 3 },
+      { "name": "potion", "volume": 1 }
+    ]
+  },
+  {
+    "open": false,
+    "capacity": null,
+    "contents": [
+      { "name": "carte au trésor" }
+    ]
+  }
+]
