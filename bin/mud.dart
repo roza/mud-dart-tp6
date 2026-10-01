@@ -2,7 +2,7 @@ import 'package:mud/box.dart';
 import 'package:mud/thing.dart';
 
 void main() {
-  print('Bienvenue dans le MUD !');
+  print('Bienvenue dans le MUD en Dart!');
 
   final coffre = Box(capacity: 5);
   coffre.actionAdd(Thing('épée', volume: 3));
